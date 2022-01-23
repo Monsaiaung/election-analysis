@@ -1,4 +1,4 @@
-# election-analysis
+# Election-Analysis
 Auditing Colorado Election
 ## Overview of Election Audit
 The purpose of this election audit is to analysize the total number of votes, number of voter turnout in each county, percentage of votes from each county out of the total count, county with the highest turnout, number of votes and percentage of votes each candidates and the statistic of the winner candidate. 
