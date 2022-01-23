@@ -9,7 +9,7 @@ First by adding a variable "file_to_load" we load a data file from a path that w
 ![file_to_load](Screenshots/file_to_load.png)
 
 ### Results
-"*"-How many votes were cast in this congressional election?
+*How many votes were cast in this congressional election?
 There were total votes of 369,711
 
 -Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
