@@ -8,7 +8,7 @@ First by adding a variable "file_to_load" we load a data file from a path that w
 
 ![file_to_load](Screenshots/file_to_load.png)
 
-### The code used in the analysis
+### The codes used in the analysis
 ![13-39](Screenshots/13-39.png)
 ![39-74](Screenshots/39-74.png)
 ![75-109](Screenshots/75-109.png)
@@ -35,6 +35,7 @@ The three candidates in this election race were Charles Casper Stockham, Diana D
 * ### Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
 The winner candidate was Diana DeGette with the vote count of 272,892 which was 73.8% of the toatl vote. 
+
 ![election_analysis_text_file](Screenshots/election_analysis_text_file.png)
 
 ## Election-Audit Summary
