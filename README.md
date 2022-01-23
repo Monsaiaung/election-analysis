@@ -9,8 +9,8 @@ First by adding a variable "file_to_load" we load a data file from a path that w
 ![file_to_load](Screenshots/file_to_load.png)
 
 ### Results
--How many votes were cast in this congressional election?
-There were total votes of 369,711D
+"*"-How many votes were cast in this congressional election?
+There were total votes of 369,711
 
 -Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 There were three counties in the election data. The counties were Jefferson, Denver, and Arapahoe. The county with the highest number of votes is Denver with 306,055 votes, which is 82.8% of the total votes. The second highest county votes is Jefferson with 38,855 votes, which is 10.5% of the total votes. The third is Arapahoe with 24,801 votes, which is 6.7% of the total votes.
