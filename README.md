@@ -34,14 +34,20 @@ The three candidates in this election race were Charles Casper Stockham, Diana D
 
 * ### Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
-The winner candidate was Diana DeGette with the vote count of 272,892 which was 73.8% of the toatl vote. 
+The winner candidate was Diana DeGette with the vote count of 272,892 which was 73.8% of the total vote. 
+
 
 ![election_analysis_text_file](Screenshots/election_analysis_text_file.png)
 
 ## Election-Audit Summary
 
+Working with big election data it is necessary to use the right tool to count the votes of the candidates and the most county votes with accuracy and efficiency. By using the the programming tools and code made in Python and VSC, the election commission could utilize in analyzing other elections in different year or counties with some modifications. 
 
+### Example 1 
+By downloading a new set of data file(.csv) in the Resources folder, the election commission can replace the data need to analyze in the line 
+“file_to_load = os.path.join(“Resources”, “new_data.csv “)
 
+### Example 2
 
 
 
