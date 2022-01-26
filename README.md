@@ -1,5 +1,5 @@
 # Election-Analysis
-Auditing Colorado Election
+Auditing Colorado Election for local congressional election. 
 ## Overview of Election Audit
 The purpose of this election audit is to analysize the total number of votes, number of voter turnout in each county, percentage of votes from each county out of the total count, county with the highest turnout, number of votes and percentage of votes each candidates and the statistic of the winner candidate. 
 ## Election-Audit Results
@@ -41,7 +41,7 @@ The winner candidate was Diana DeGette with the vote count of 272,892 which was 
 
 ## Election-Audit Summary
 
-Working with big election data it is necessary to use the right tool to count the votes of the candidates and the county with accuracy and efficiency. By using the the programming tools and code made in Python and VSC, the election commission could utilize in analyzing other elections in different year or counties with some modifications. 
+Working with big election data it is necessary to use the right tool to count the votes of the candidates and the county with accuracy and efficiency. By using this programming tools and script made in Python and VSC, the election commission could utilize in analyzing other elections in different year or counties with some modifications.  
 
 ### Example 1 
 By downloading a new set of data file(.csv) in the Resources folder, the election commission can replace the data need to analyze in the line 
@@ -49,6 +49,9 @@ By downloading a new set of data file(.csv) in the Resources folder, the electio
 
 ### Example 2
 
-If 
+If the election commisssion team is dealing with federal election data, the script can be changed from county to states. 
+For example: The county_list = [] and county_votes = {} could be changed to states_list = [] and states_votes {}
+county_list=[]
+county_votes = {}
 
-
+This Python script is the fundamental tool that can be used with any election with simple modification. It can be used to analyze larger data set with more votes or to analyze Federal level election. The script is ready to use and is written with precision in mind. Please reach out for further consultation if the election commission team is interested in utilizing this election analysis tool. 
